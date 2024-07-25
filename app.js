@@ -1,6 +1,8 @@
 // Nombre de integrantes:
-// Aleejandro Bueno Peralta
-// Samandiego Leidy
+// Anchundia Armas Julisa
+// Intriago Segovia Manuel
+//Pico Arteaga Delly
+//Fernández Velez José
 const express = require('express');
 const app = express();
 const port = 3000;
